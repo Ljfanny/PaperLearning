@@ -129,9 +129,7 @@ Precondition Inference
 
 **C. Optimizations for Maintaining Precision**
 
-1. Relationship Preservation
-
-   <img src="C:\Users\Ljfanny\AppData\Roaming\Typora\typora-user-images\image-20220910121240052.png" alt="image-20220910121240052" style="zoom: 50%;" /> 
+1. Relationship Preservation 
 
    conventional interval analyses ---> each statement occurring in the program transforms the interval abstract state
 
