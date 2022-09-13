@@ -3,7 +3,7 @@
 link: [gwangmu-cafl.pdf (lifeasageek.github.io)](https://lifeasageek.github.io/papers/gwangmu-cafl.pdf)
 proof-of-concept (PoC)
 
-![CAFL](figures\CAFL.png) 
+[![CAFL](figures\CAFL.png) ](https://github.com/Ljfanny/PaperLearning/blob/main/figures/CAFL.png)
 
 ## 1 Introduction
 
